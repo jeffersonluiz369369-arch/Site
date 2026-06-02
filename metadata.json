@@ -1,0 +1,6 @@
+{
+  "name": "Gêneses",
+  "description": "Agência de alta performance especializada em design de sites, aplicativos, marketing digital e branding de marcas líderes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
